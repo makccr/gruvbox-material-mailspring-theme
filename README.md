@@ -9,7 +9,7 @@ This is just a gruvbox material theme for the Mailspring Mail app. Obviously the
 ![](https://github.com/makccr/gruvbox-material-mailspring-theme/blob/master/image/preview.png)
 
 ## Installation
-To install simply download [here](https://github.com/makccr/gruvbox-material-mailspring-theme/releases). Unzip to a location of your choosing, and select the unzipped folder location withing the Mailspring app. 
+To install simply download [here](https://github.com/makccr/gruvbox-material-mailspring-theme/releases). Unzip to a location of your choosing, and select the unzipped folder location within the Mailspring app. 
 
 
 ![](https://github.com/makccr/gruvbox-material-mailspring-theme/blob/master/image/add.png) ![](https://github.com/makccr/gruvbox-material-mailspring-theme/blob/master/image/select.png)
